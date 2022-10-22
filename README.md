@@ -9,8 +9,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Links
 
-- Solution URL:(https://www.frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/)
-- Live Site URL:(https://mohamed806h.github.io/)
+- Solution URL:(https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-k0JS7ufg_1)
+- Live Site URL:(https://mohamed806h.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## Built with
 
