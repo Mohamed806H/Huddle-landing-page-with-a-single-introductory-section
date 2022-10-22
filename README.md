@@ -5,7 +5,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Screenshot
 
-![desktop-design](https://user-images.githubusercontent.com/91362640/195993688-c09b099f-f5a3-4bb6-944b-f2860118d1c9.jpg)
+![desktop-design](https://user-images.githubusercontent.com/91362640/197344253-a519c9c0-d364-47e8-97f2-d8c3daa12e81.jpg)
 
 ## Links
 
